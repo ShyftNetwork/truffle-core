@@ -1,7 +1,7 @@
 {
-  "name": "truffle-core",
-  "namespace": "consensys",
-  "version": "4.0.4",
+  "name": "@shyftnetwork/shyft_truffle-core",
+  "namespace": "shyftnetwork",
+  "version": "4.0.5",
   "description": "Core code for Truffle command line tool",
   "dependencies": {
     "async": "^1.4.2",
@@ -12,7 +12,7 @@
     "debug": "^3.1.0",
     "del": "^2.2.0",
     "diff": "1.4.0",
-    "ganache-cli": "6.0.3",
+    "@shyftnetwork/shyft_ganache-cli": "^6.0.5",
     "ethpm": "0.0.15",
     "ethpm-registry": "0.0.10",
     "finalhandler": "^0.4.0",
@@ -61,14 +61,7 @@
   "bugs": {
     "url": "https://github.com/ConsenSys/truffle/issues"
   },
-  "author": "consensys.net",
-  "authors": [
-    {
-      "name": "Tim Coulter",
-      "email": "tim@timothyjcoulter.com",
-      "url": "https://github.com/tcoulter"
-    }
-  ],
+  "author": "cf <chris@shyft.network>",
   "devDependencies": {
     "ipfsd-ctl": "^0.21.0",
     "truffle-blockchain-utils": "^0.0.3"
