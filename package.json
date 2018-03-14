@@ -1,9 +1,6 @@
 {
   "name": "@shyftnetwork/shyft_truffle-core",
   "namespace": "shyftnetwork",
-  "version": "4.0.5",
-  "name": "truffle-core",
-  "namespace": "consensys",
   "version": "4.1.3",
   "description": "Core code for Truffle command line tool",
   "dependencies": {
