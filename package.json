@@ -1,6 +1,6 @@
 {
   "name": "truffle-core",
-  "namespace": "consensys",
+  "namespace": "shyft",
   "version": "4.0.4",
   "description": "Core code for Truffle command line tool",
   "dependencies": {
@@ -55,18 +55,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ConsenSys/truffle.git"
+    "url": "https://github.com/shyftnetwork/shyft_truffle.git"
   },
-  "homepage": "https://github.com/ConsenSys/truffle",
+  "homepage": "https://github.com/shyftnetwork/shyft_truffle",
   "bugs": {
-    "url": "https://github.com/ConsenSys/truffle/issues"
+    "url": "https://github.com/shyftnetwork/shyft_truffle/issues"
   },
-  "author": "consensys.net",
+  "author": "shyft.network",
   "authors": [
     {
-      "name": "Tim Coulter",
-      "email": "tim@timothyjcoulter.com",
-      "url": "https://github.com/tcoulter"
+      "name": "All",
+      "email": "jayper@shyft.network",
+      "url": "https://github.com/shyftnetwork"
     }
   ],
   "devDependencies": {
