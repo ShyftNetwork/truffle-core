@@ -1,5 +1,5 @@
 {
-  "name": "truffle-core",
+  "name": "@shyftnetwork/shyft_truffle-core",
   "namespace": "shyft",
   "version": "4.0.4",
   "description": "Core code for Truffle command line tool",
