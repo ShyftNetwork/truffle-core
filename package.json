@@ -28,7 +28,7 @@
     "temp": "^0.8.3",
     "truffle-artifactor": "^3.0.2",
     "truffle-box": "^1.0.3",
-    "truffle-compile": "^3.0.4",
+    "@shyftnetwork/shyft_truffle-compile": "^3.0.4",
     "truffle-config": "^1.0.4",
     "truffle-contract": "^3.0.1",
     "truffle-contract-sources": "^0.0.1",
